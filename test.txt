@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3C67-D547
+
+ Directory of C:\Users\madhu\Documents\practice_exercise
+
+10/08/2022  06:11 PM    <DIR>          .
+10/08/2022  05:37 PM    <DIR>          ..
+10/08/2022  05:38 PM    <DIR>          github
+10/08/2022  05:38 PM    <DIR>          javaScript
+10/08/2022  06:11 PM                 0 test.txt
+10/08/2022  05:39 PM    <DIR>          vscode
+10/08/2022  06:10 PM                21 xyz.txt
+               2 File(s)             21 bytes
+               5 Dir(s)  247,636,869,120 bytes free
